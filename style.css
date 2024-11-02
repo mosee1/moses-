@@ -3,10 +3,24 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 88%;
-    color: hsla(13, 57%, 9%, 0.76);
+    color: hsla(15, 4%, 56%, 0.76);
+    background-image:url(galaxy.jpg);
 }
 p{
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blueviolets;
+}
+h1{
+    size-adjust: auto;
+    align-items: center;
+    size: 0cap;
+    font-size: 44%;
+
+}
+img{
+    display: flex;
+    align-items: center;
+    size: 50px;
+    padding: auto;
 }
